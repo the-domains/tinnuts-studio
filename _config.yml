@@ -1,0 +1,57 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.681815828429535
+  lightness: 0.2703626526053995
+  saturation: 0.6922885680105537
+  rhythmicContrast: 0.8106794643681496
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: tinnuts studio
+layout_spectrum: 0.8158609420061111
+typography_spectrum: 0.9582210662774742
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b633845-0332-4cab-8eff-518d2ca984a3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b633845-0332-4cab-8eff-518d2ca984a3.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: TINNUTS STUDIO
+description: ovo
+purpose:
+  - type: contact
+    url: 'mailto:tinnuts@aliyun.com'
+    label: Email Tinnuts
+  - type: contact
+    url: 'tel:13967851228'
+    label: Call Tinnuts
+url: 'http://www.tinnuts.cc'
+github: true
