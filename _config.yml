@@ -1,3 +1,5 @@
+layout_spectrum: 0.3150539745036328
+typography_spectrum: 0.2542143356778871
 color:
   brandColors:
     - '#FFFFFF'
@@ -5,10 +7,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.681815828429535
-  lightness: 0.2703626526053995
-  saturation: 0.6922885680105537
-  rhythmicContrast: 0.8106794643681496
+  brandStrength: 0.43259587460538684
+  lightness: 0.15670265880099837
+  saturation: 0.578915954435447
+  rhythmicContrast: 0.11658849730285456
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: tinnuts studio
-layout_spectrum: 0.8158609420061111
-typography_spectrum: 0.9582210662774742
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
